@@ -1,0 +1,1 @@
+In this program, we use the pandas library to read the employee data from a CSV file, filter employees with salaries above a user-defined threshold, and sort the filtered employees by salary in descending order. This exercise demonstrates the use of the pandas library for data manipulation, which is an essential skill in real work environments.
